@@ -15,3 +15,12 @@ class Learning(models.Model):
 
     def __str__(self):
         return '{0}\'s learning of {1}'.format(self.user.username, self.word.name)
+
+
+@python_2_unicode_compatible
+class Word(models.Model):
+    name = models.CharField(max_length=50)
+    pronunciation = models.CharField(max_length=50)
+
+    def __str__(self):
+        return self.name
