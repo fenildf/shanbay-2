@@ -1,7 +1,6 @@
 from django.http import HttpResponse
-from django.views.generic import View
+from django.views.generic import View, TemplateView
 
 
-class Index(View):
-    def get(self, request):
-        return HttpResponse("Hello world!")
+class Index(TemplateView):
+    template_name = 'bdc/index.html'
