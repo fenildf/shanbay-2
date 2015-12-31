@@ -11,11 +11,14 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
 import os
-from .database import postgresql
+try:
+    from .database import postgresql
+except ImportError:
+    postgresql = None
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
+sqlite3 = {'ENGINE': 'django.db.backends.sqlite3', 'NAME': os.path.join(BASE_DIR, 'db.sqlite3')}
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.9/howto/deployment/checklist/
@@ -24,7 +27,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '7^evqoolin)1ng9jg)d59(2x^*29uuatb^znb-h*^9mf9(1=@7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
@@ -78,7 +81,7 @@ WSGI_APPLICATION = 'shanbay.wsgi.application'
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
 DATABASES = {
-    'default': postgresql,
+    'default': postgresql if postgresql is not None else sqlite3,
 }
 
 
