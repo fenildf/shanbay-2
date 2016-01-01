@@ -1,16 +1,34 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
-  <head>
+<head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="author" content="Tang Ziya">
     <meta name="description" content="模仿扇贝网的习作">
     <title>{% block title %}扇贝{% endblock %}</title>
     <!--[if (lt IE 9) & (!IEMobile)]><![endif]-->
-  </head>
-  <body>
-    <div id="header">header</div>
-    <div id="container">container</div>
-    <div id="footer">footer</div>
-  </body>
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="navbar navbar-fixed-top navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="navbar-brand">Site Name</div>
+                </div>
+
+                <div class="collapse navbar-collapse">
+                    <button class="btn navbar-btn btn-default"> class</button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div></div>
+    <div id="container" class="container"></div>
+    <footer></footer>
+    <script src="{% static 'js/jquery-2.1.4.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+</body>
 </html>

@@ -18,7 +18,7 @@ from django.conf.urls import url, include
 from django.contrib import admin
 
 from .views import Index
-import bdc
+import bdc.urls
 
 urlpatterns = [
     url(r'^$', Index.as_view(), name='index'),

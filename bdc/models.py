@@ -9,7 +9,7 @@ from django.utils.encoding import python_2_unicode_compatible
 @python_2_unicode_compatible
 class Learning(models.Model):
     user = models.ForeignKey(User)
-    word = models.ForeignKey(Word)
+    word = models.ForeignKey('Word')
     learning_date = models.DateField()
     proficiency = models.SmallIntegerField()
 
