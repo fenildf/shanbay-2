@@ -9,7 +9,7 @@ from django.utils.encoding import python_2_unicode_compatible
 @python_2_unicode_compatible
 class Account(models.Model):
     id = models.IntegerField(auto_created=True, primary_key=True)
-    user = models.OneToOneFielde(User)
+    user = models.OneToOneField(User)
     nickname = models.CharField(max_length=20)
     avatar = models.ImageField(upload_to='avatar')
     bdc_quota = models.IntegerField(default=50)

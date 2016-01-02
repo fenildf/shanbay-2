@@ -19,9 +19,11 @@ from django.contrib import admin
 
 from .views import Index
 import bdc.urls
+import accounts.urls
 
 urlpatterns = [
     url(r'^$', Index.as_view(), name='index'),
+    url(r'^accounts/', include(accounts.urls, namespace='accounts')),
     url(r'^admin/', admin.site.urls),
     url(r'^bdc/', include(bdc.urls, namespace='bdc')),
 ]
