@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'shanbay.wsgi.application'
 if not DEBUG:
     from .database import postgresql
 DATABASES = {
-    'default': postgresql if not DEBUG else sqlite3,
+    'default': sqlite3 if DEBUG else postgresql,
 }
 
 
