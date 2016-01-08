@@ -16,6 +16,7 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from django.views.generic import RedirectView
 
 from bdc.views import Index
 import bdc.urls
@@ -26,4 +27,6 @@ urlpatterns = [
     url(r'^accounts/', include(accounts.urls, namespace='accounts')),
     url(r'^admin/', admin.site.urls),
     url(r'^bdc/', include(bdc.urls, namespace='bdc')),
+    url(r'^favicon\.ico$', RedirectView.as_view(url='/static/img/favicon.ico')),
+    url(r'^robots\.txt$', RedirectView.as_view(url='/static/img/favicon.ico')),
 ]
