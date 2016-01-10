@@ -7,21 +7,27 @@ from django.utils.encoding import python_2_unicode_compatible
 
 
 @python_2_unicode_compatible
+class Word(models.Model):
+    name = models.CharField(max_length=50)
+    pronunciation = models.CharField(max_length=50)
+    definition = models.TextField()
+
+    def __str__(self):
+        return self.name
+
+
+@python_2_unicode_compatible
 class Learning(models.Model):
     user = models.ForeignKey(User)
-    word = models.ForeignKey('Word')
+    word = models.ForeignKey(Word)
     learning_date = models.DateField()
-    proficiency = models.SmallIntegerField()
+    review_status = models.SmallIntegerField()
+    review_times = models.SmallIntegerField()
 
     def __str__(self):
         return '{0}\'s learning of {1}'.format(self.user.username, self.word.name)
 
 
 @python_2_unicode_compatible
-class Word(models.Model):
-    name = models.CharField(max_length=50)
-    pronunciation = models.CharField(max_length=50)
-    definition = models.CharField(max_length=50)
-
-    def __str__(self):
-        return self.name
+class Audio(models.Model):
+    addresses = models.CharField(max_length=255)
