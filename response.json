@@ -1,0 +1,252 @@
+{
+  "msg": "SUCCESS",
+  "status_code": 0,
+  "data": {
+    "reviews": [
+      {
+        "en_definitions": {"A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair": [""]},
+        "pronunciations": {"uk": "'h\u0252vl", "us": "'h\u028cvl"},
+        "learning_example_ids": [],
+        "audio_addresses": {
+          "uk": [
+            "http://words-audio.oss.aliyuncs.com/uk%2Fh%2Fho%2Fhovel.mp3",
+            "http://words-audio.cdn.shanbay.com/uk/h/ho/hovel.mp3"
+          ],
+          "us": [
+            "http://words-audio.oss.aliyuncs.com/us%2Fh%2Fho%2Fhovel.mp3",
+            "http://words-audio.cdn.shanbay.com/us/h/ho/hovel.mp3"
+          ]
+        },
+        "sys_example_ids": [],
+        "user_note_ids": [],
+        "uk_audio": "http://media.shanbay.com/audio/uk/hovel.mp3",
+        "review_status": 0,
+        "is_new": false,
+        "audio_name": "hovel",
+        "cn_definition": {
+          "pos": "",
+          "defn": "n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b"
+        },
+        "shared_note_ids": [117521, 222618],
+        "sense_id": 0,
+        "id": 21693918082,
+        "retention": 1,
+        "definition": " n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b",
+        "audio": "http://media.shanbay.com/audio/us/hovel.mp3",
+        "test_choice_ids": [2879, 86472, 13821, 26244],
+        "learning_note_ids": [],
+        "level": 0,
+        "has_audio": true,
+        "userid": 6859738,
+        "content": "hovel",
+        "pron": "'h\u028cvl",
+        "en_definition": {
+          "pos": "",
+          "defn": "A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair."
+        },
+        "user_example_ids": [],
+        "review_times": 1,
+        "content_id": 13821,
+        "us_audio": "http://media.shanbay.com/audio/us/hovel.mp3"
+      },
+      {
+        "en_definitions": {"n.": ["A convention is a way of behaving that is considered to be correct or polite by most people in a society."]},
+        "pronunciations": {"uk": "k\u0259n'ven\u0283n", "us": "k\u0259n'ven\u0283n"},
+        "learning_example_ids": [],
+        "audio_addresses": {
+          "uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fc%2Fco%2Fconvention.mp3", "http://words-audio.cdn.shanbay.com/uk/c/co/convention.mp3"],
+          "us": ["http://words-audio.oss.aliyuncs.com/us%2Fc%2Fco%2Fconvention.mp3", "http://words-audio.cdn.shanbay.com/us/c/co/convention.mp3"]
+        },
+        "sys_example_ids": [1721881],
+        "user_note_ids": [],
+        "uk_audio": "http://media.shanbay.com/audio/uk/convention.mp3",
+        "review_status": 0,
+        "is_new": false,
+        "audio_name": "convention",
+        "cn_definition": {"pos": "n.", "defn": "\u4e60\u4fd7"},
+        "shared_note_ids": [2050, 2386],
+        "sense_id": 0,
+        "id": 19009699357,
+        "retention": 1,
+        "definition": "n. \u4e60\u4fd7",
+        "audio": "http://media.shanbay.com/audio/us/convention.mp3",
+        "test_choice_ids": [1839, 13837, 56547, 34010],
+        "learning_note_ids": [],
+        "level": 0,
+        "has_audio": true,
+        "userid": 6859738,
+        "content": "convention",
+        "pron": "k\u0259n'ven\u0283n",
+        "en_definition": {
+          "pos": "n.",
+          "defn": "A <vocab>convention</vocab> is a way of behaving that is considered to be correct or polite by most people in a society."
+        },
+        "user_example_ids": [],
+        "review_times": 1,
+        "content_id": 1839,
+        "us_audio": "http://media.shanbay.com/audio/us/convention.mp3"
+      },
+      {
+        "en_definitions": {
+          "adj.": [
+            "If you describe someone or something as unexceptionable, you mean that they are unlikely to be criticized or objected to, but are not new or exciting, and may have some hidden bad qualities."
+          ]
+        },
+        "pronunciations": {
+          "uk": "\u02cc\u028cn\u026ak'sep\u0283\u0259n\u0259bl",
+          "us": "\u02cc\u028cn\u026ak'sep\u0283\u0259n\u0259bl"
+        },
+        "learning_example_ids": [],
+        "audio_addresses": {
+          "uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fu%2Fun%2Funexceptionable.mp3", "http://words-audio.cdn.shanbay.com/uk/u/un/unexceptionable.mp3"],
+          "us": ["http://words-audio.oss.aliyuncs.com/us%2Fu%2Fun%2Funexceptionable.mp3", "http://words-audio.cdn.shanbay.com/us/u/un/unexceptionable.mp3"]
+        },
+        "sys_example_ids": [1817716, 1817719],
+        "user_note_ids": [],
+        "uk_audio": "http://media.shanbay.com/audio/uk/unexceptionable.mp3",
+        "review_status": 0,
+        "is_new": false,
+        "audio_name": "unexceptionable",
+        "cn_definition": {
+          "pos": "adj.",
+          "defn": "\u65e0\u61c8\u53ef\u51fb\u7684"
+        },
+        "shared_note_ids": [119668, 28023],
+        "sense_id": 0,
+        "id": 21693918223,
+        "retention": 1,
+        "definition": "adj. \u65e0\u61c8\u53ef\u51fb\u7684",
+        "audio": "http://media.shanbay.com/audio/us/unexceptionable.mp3",
+        "test_choice_ids": [10482, 1686, 18953, 86472],
+        "learning_note_ids": [],
+        "level": 0,
+        "has_audio": true,
+        "userid": 6859738,
+        "content": "unexceptionable",
+        "pron": "\u02cc\u028cn\u026ak'sep\u0283\u0259n\u0259bl",
+        "en_definition": {
+          "pos": "adj.",
+          "defn": "If you describe someone or something as <vocab>unexceptionable</vocab>, you mean that they are unlikely to be criticized or objected to, but are not new or exciting, and may have some hidden bad qualities."
+        },
+        "user_example_ids": [],
+        "review_times": 1,
+        "content_id": 18953,
+        "us_audio": "http://media.shanbay.com/audio/us/unexceptionable.mp3"
+      },
+      {
+        "en_definitions": {
+          "n.": ["An operator is a person who connects telephone calls at a telephone exchange or in a place such as an office or hotel."]
+        },
+        "pronunciations": {
+          "uk": "'\u0252p\u0259re\u026at\u0259(r)",
+          "us": "'\u0251\u02d0p\u0259re\u026at\u0259r"
+        },
+        "learning_example_ids": [],
+        "audio_addresses": {
+          "uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fo%2Fop%2Foperator.mp3", "http://words-audio.cdn.shanbay.com/uk/o/op/operator.mp3"],
+          "us": ["http://words-audio.oss.aliyuncs.com/us%2Fo%2Fop%2Foperator.mp3", "http://words-audio.cdn.shanbay.com/us/o/op/operator.mp3"]
+        },
+        "sys_example_ids": [1767094],
+        "user_note_ids": [],
+        "uk_audio": "http://media.shanbay.com/audio/uk/operator.mp3",
+        "review_status": 0,
+        "is_new": false,
+        "audio_name": "operator",
+        "cn_definition": {
+          "pos": "n.",
+          "defn": "\u7535\u8bdd\u63a5\u7ebf\u5458"
+        },
+        "shared_note_ids": [70348, 24564],
+        "sense_id": 0,
+        "id": 52175313,
+        "retention": 1,
+        "definition": "n. \u7535\u8bdd\u63a5\u7ebf\u5458",
+        "audio": "http://media.shanbay.com/audio/us/operator.mp3",
+        "test_choice_ids": [4407, 1394, 12060, 48543],
+        "learning_note_ids": [],
+        "level": 0,
+        "has_audio": true,
+        "userid": 6859738,
+        "content": "operator",
+        "pron": "'\u0251\u02d0p\u0259re\u026at\u0259r",
+        "en_definition": {
+          "pos": "n.",
+          "defn": "An <vocab>operator</vocab> is a person who connects telephone calls at a telephone exchange or in a place such as an office or hotel."
+        },
+        "user_example_ids": [],
+        "review_times": 1,
+        "content_id": 4407,
+        "us_audio": "http://media.shanbay.com/audio/us/operator.mp3"
+      },
+      {
+        "en_definitions": {"If you describe someone as <vocab>effusive</vocab>, you mean that they express pleasure, gratitude, or approval in a very enthusiastic way": [""]}, "pronunciations": {"uk": "\u026a'fju\u02d0s\u026av", "us": "\u026a'fju\u02d0s\u026av"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fe%2Fef%2Feffusive.mp3", "http://words-audio.cdn.shanbay.com/uk/e/ef/effusive.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fe%2Fef%2Feffusive.mp3", "http://words-audio.cdn.shanbay.com/us/e/ef/effusive.mp3"]}, "sys_example_ids": [25866], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/effusive.mp3", "review_status": 0, "is_new": false, "audio_name": "effusive", "cn_definition": {"pos": "", "defn": "adj. \u6d41\u51fa\u7684, \u611f\u60c5\u5954\u653e\u7684"}, "shared_note_ids": [410380, 410381], "sense_id": 0, "id": 21693918253, "retention": 1, "definition": " adj. \u6d41\u51fa\u7684, \u611f\u60c5\u5954\u653e\u7684", "audio": "http://media.shanbay.com/audio/us/effusive.mp3", "test_choice_ids": [11624, 12060, 10274, 12904], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "effusive", "pron": "\u026a'fju\u02d0s\u026av", "en_definition": {"pos": "", "defn": "If you describe someone as <vocab>effusive</vocab>, you mean that they express pleasure, gratitude, or approval in a very enthusiastic way."}, "user_example_ids": [], "review_times": 1, "content_id": 10274, "us_audio": "http://media.shanbay.com/audio/us/effusive.mp3"
+      },
+      {
+        "en_definitions": {"n.": ["A sycophant is a person who behaves in a sycophantic way."]}, "pronunciations": {"uk": "'s\u026ak\u0259f\u00e6nt", "us": "'s\u026ak\u0259f\u00e6nt"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fs%2Fsy%2Fsycophant.mp3", "http://words-audio.cdn.shanbay.com/uk/s/sy/sycophant.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fs%2Fsy%2Fsycophant.mp3", "http://words-audio.cdn.shanbay.com/us/s/sy/sycophant.mp3"]}, "sys_example_ids": [1817302], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/sycophant.mp3", "review_status": 0, "is_new": false, "audio_name": "sycophant", "cn_definition": {"pos": "n.", "defn": "\u963f\u8c00\u5949\u627f\u8005"}, "shared_note_ids": [231013, 589893], "sense_id": 0, "id": 21693918235, "retention": 1, "definition": "n. \u963f\u8c00\u5949\u627f\u8005", "audio": "http://media.shanbay.com/audio/us/sycophant.mp3", "test_choice_ids": [16436, 9709, 8301, 24698], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "sycophant", "pron": "'s\u026ak\u0259f\u00e6nt", "en_definition": {"pos": "n.", "defn": "A <vocab>sycophant</vocab> is a person who behaves in a sycophantic way."}, "user_example_ids": [], "review_times": 1, "content_id": 16436, "us_audio": "http://media.shanbay.com/audio/us/sycophant.mp3"
+      },
+      {
+        "en_definitions": {"phrase.": ["If you say that something has been happening since time immemorial or from time immemorial, you are emphasizing that it has been happening for many centuries."]}, "pronunciations": {"uk": "\u02cc\u026am\u0259'm\u0254\u02d0ri\u0259l", "us": "\u02cc\u026am\u0259'm\u0254\u02d0ri\u0259l"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fi%2Fim%2Fimmemorial.mp3", "http://words-audio.cdn.shanbay.com/uk/i/im/immemorial.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fi%2Fim%2Fimmemorial.mp3", "http://words-audio.cdn.shanbay.com/us/i/im/immemorial.mp3"]}, "sys_example_ids": [1813939], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/immemorial.mp3", "review_status": 0, "is_new": false, "audio_name": "immemorial", "cn_definition": {"pos": "phrase.", "defn": "\u81ea\u53e4\u4f0a\u59cb\uff1b\u81ea\u8fdc\u53e4\u4ee5\u6765"}, "shared_note_ids": [24625, 24626], "sense_id": 0, "id": 21693918064, "retention": 1, "definition": "phrase. \u81ea\u53e4\u4f0a\u59cb\uff1b\u81ea\u8fdc\u53e4\u4ee5\u6765", "audio": "http://media.shanbay.com/audio/us/immemorial.mp3", "test_choice_ids": [17735, 9709, 18262, 13897], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "immemorial", "pron": "\u02cc\u026am\u0259'm\u0254\u02d0ri\u0259l", "en_definition": {"pos": "phrase.", "defn": "If you say that something has been happening <vocab>since time immemorial</vocab> or <vocab>from time immemorial</vocab>, you are emphasizing that it has been happening for many centuries."}, "user_example_ids": [], "review_times": 1, "content_id": 13897, "us_audio": "http://media.shanbay.com/audio/us/immemorial.mp3"
+      },
+      {
+        "en_definitions": {"n.": ["If you say that there is ambiguity in something, you mean that it is unclear or confusing, or it can be understood in more than one way."]}, "pronunciations": {"uk": "\u02cc\u00e6mb\u026a'\u0261ju\u02d0\u0259ti", "us": "\u02cc\u00e6mb\u026a'\u0261ju\u02d0\u0259ti"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fa%2Fam%2Fambiguity.mp3", "http://words-audio.cdn.shanbay.com/uk/a/am/ambiguity.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fa%2Fam%2Fambiguity.mp3", "http://words-audio.cdn.shanbay.com/us/a/am/ambiguity.mp3"]}, "sys_example_ids": [1705030], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/ambiguity.mp3", "review_status": 0, "is_new": false, "audio_name": "ambiguity", "cn_definition": {"pos": "n.", "defn": "\u6a21\u68f1\u4e24\u53ef"}, "shared_note_ids": [240537, 46004], "sense_id": 0, "id": 52170216, "retention": 1, "definition": "n. \u6a21\u68f1\u4e24\u53ef", "audio": "http://media.shanbay.com/audio/us/ambiguity.mp3", "test_choice_ids": [15543, 10482, 1394, 11745], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "ambiguity", "pron": "\u02cc\u00e6mb\u026a'\u0261ju\u02d0\u0259ti", "en_definition": {"pos": "n.", "defn": "If you say that there is <vocab>ambiguity</vocab> in something, you mean that it is unclear or confusing, or it can be understood in more than one way."}, "user_example_ids": [], "review_times": 1, "content_id": 11745, "us_audio": "http://media.shanbay.com/audio/us/ambiguity.mp3"
+      },
+      {
+        "en_definitions": {
+          "vt.": [
+            "If you lobby someone such as a member of a government or council, you try to persuade them that a particular law should be changed or that a particular thing should be done."
+          ]
+        },
+        "pronunciations": {
+          "uk": "'l\u0252bi",
+          "us": "'l\u0251\u02d0bi"
+        },
+        "learning_example_ids": [],
+        "audio_addresses": {
+          "uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fl%2Flo%2Flobby.mp3", "http://words-audio.cdn.shanbay.com/uk/l/lo/lobby.mp3"],
+          "us": ["http://words-audio.oss.aliyuncs.com/us%2Fl%2Flo%2Flobby.mp3", "http://words-audio.cdn.shanbay.com/us/l/lo/lobby.mp3"]
+        },
+        "sys_example_ids": [1756564],
+        "user_note_ids": [],
+        "uk_audio": "http://media.shanbay.com/audio/uk/lobby.mp3",
+        "review_status": 0,
+        "is_new": false,
+        "audio_name": "lobby",
+        "cn_definition": {"pos": "vt.", "defn": "\u6e38\u8bf4"},
+        "shared_note_ids": [6656, 6054],
+        "sense_id": 0,
+        "id": 52370853,
+        "retention": 1,
+        "definition": "vt. \u6e38\u8bf4",
+        "audio": "http://media.shanbay.com/audio/us/lobby.mp3",
+        "test_choice_ids": [10927, 86472, 6226, 7680],
+        "learning_note_ids": [],
+        "level": 0,
+        "has_audio": true,
+        "userid": 6859738,
+        "content": "lobby",
+        "pron": "'l\u0251\u02d0bi",
+        "en_definition": {
+          "pos": "vt.",
+          "defn": "If you <vocab>lobby</vocab> someone such as a member of a government or council, you try to persuade them that a particular law should be changed or that a particular thing should be done."
+        },
+        "user_example_ids": [],
+        "review_times": 1,
+        "content_id": 7680,
+        "us_audio": "http://media.shanbay.com/audio/us/lobby.mp3"
+      },
+      {
+        "en_definitions": {"vt.": ["If people promulgate a new law or a new idea, they make it widely known."]}, "pronunciations": {"uk": "'pr\u0252ml\u0261e\u026at", "us": "'pr\u0251\u02d0ml\u0261e\u026at"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fp%2Fpr%2Fpromulgate.mp3", "http://words-audio.cdn.shanbay.com/uk/p/pr/promulgate.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fp%2Fpr%2Fpromulgate.mp3", "http://words-audio.cdn.shanbay.com/us/p/pr/promulgate.mp3"]}, "sys_example_ids": [1816000], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/promulgate.mp3", "review_status": 0, "is_new": false, "audio_name": "promulgate", "cn_definition": {"pos": "vt.", "defn": "\u6563\u5e03\uff1b\u4f20\u64ad"}, "shared_note_ids": [439, 4447], "sense_id": 0, "id": 17706765118, "retention": 1, "definition": "vt. \u6563\u5e03\uff1b\u4f20\u64ad", "audio": "http://media.shanbay.com/audio/us/promulgate.mp3", "test_choice_ids": [3081, 17746, 11053, 9709], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "promulgate", "pron": "'pr\u0251\u02d0ml\u0261e\u026at", "en_definition": {"pos": "vt.", "defn": "If people <vocab>promulgate</vocab> a new law or a new idea, they make it widely known."}, "user_example_ids": [], "review_times": 4, "content_id": 11053, "us_audio": "http://media.shanbay.com/audio/us/promulgate.mp3"
+      },
+      {
+        "en_definitions": {"adj.": ["added or appearing accidentally or unexpectedly"]}, "pronunciations": {"uk": "\u02cc\u00e6dven't\u026a\u0283\u0259s", "us": "\u02cc\u00e6dven't\u026a\u0283\u0259s"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fa%2Fad%2Fadventitious.mp3", "http://words-audio.cdn.shanbay.com/uk/a/ad/adventitious.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fa%2Fad%2Fadventitious.mp3", "http://words-audio.cdn.shanbay.com/us/a/ad/adventitious.mp3"]}, "sys_example_ids": [270700], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/adventitious.mp3", "review_status": 0, "is_new": false, "audio_name": "adventitious", "cn_definition": {"pos": "adj.", "defn": "\u5916\u52a0\u7684\uff1b\u5076\u7136\u7684"}, "shared_note_ids": [75914, 57102], "sense_id": 0, "id": 21693918214, "retention": 1, "definition": "adj. \u5916\u52a0\u7684\uff1b\u5076\u7136\u7684", "audio": "http://media.shanbay.com/audio/us/adventitious.mp3", "test_choice_ids": [24698, 37575, 17735, 18182], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "adventitious", "pron": "\u02cc\u00e6dven't\u026a\u0283\u0259s", "en_definition": {"pos": "adj.", "defn": "added or appearing accidentally or unexpectedly"}, "user_example_ids": [], "review_times": 1, "content_id": 18182, "us_audio": "http://media.shanbay.com/audio/us/adventitious.mp3"},
+      {
+        "en_definitions": {"vt.": ["When you knead dough or other food, you press and squeeze it with your hands so that it becomes smooth and ready to bake."]}, "pronunciations": {"uk": "ni\u02d0d", "us": "ni\u02d0d"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fk%2Fkn%2Fknead.mp3", "http://words-audio.cdn.shanbay.com/uk/k/kn/knead.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fk%2Fkn%2Fknead.mp3", "http://words-audio.cdn.shanbay.com/us/k/kn/knead.mp3"]}, "sys_example_ids": [38352, 38353], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/knead.mp3", "review_status": 0, "is_new": false, "audio_name": "knead", "cn_definition": {"pos": "vt.", "defn": "\u63c9 \uff08\u9762\u56e2\u7b49\uff09"}, "shared_note_ids": [115345, 120178], "sense_id": 0, "id": 21693918184, "retention": 1, "definition": "vt. \u63c9 \uff08\u9762\u56e2\u7b49\uff09", "audio": "http://media.shanbay.com/audio/us/knead.mp3", "test_choice_ids": [10012, 56547, 18631, 10927], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "knead", "pron": "ni\u02d0d", "en_definition": {"pos": "vt.", "defn": "When you <vocab>knead</vocab> dough or other food, you press and squeeze it with your hands so that it becomes smooth and ready to bake."}, "user_example_ids": [], "review_times": 1, "content_id": 18631, "us_audio": "http://media.shanbay.com/audio/us/knead.mp3"},
+      {
+        "en_definitions": {"vt.": ["If you entreat someone to do something, you ask them very politely and seriously to do it."]}, "pronunciations": {"uk": "\u026an'tri\u02d0t", "us": "\u026an'tri\u02d0t"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fe%2Fen%2Fentreat.mp3", "http://words-audio.cdn.shanbay.com/uk/e/en/entreat.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fe%2Fen%2Fentreat.mp3", "http://words-audio.cdn.shanbay.com/us/e/en/entreat.mp3"]}, "sys_example_ids": [1812964], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/entreat.mp3", "review_status": 0, "is_new": false, "audio_name": "entreat", "cn_definition": {"pos": "vt.", "defn": "\u6073\u6c42\uff1b\u8bf7\u6c42"}, "shared_note_ids": [286846, 115679], "sense_id": 0, "id": 21693918109, "retention": 1, "definition": "vt. \u6073\u6c42\uff1b\u8bf7\u6c42", "audio": "http://media.shanbay.com/audio/us/entreat.mp3", "test_choice_ids": [15543, 56547, 7238, 13437], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "entreat", "pron": "\u026an'tri\u02d0t", "en_definition": {"pos": "vt.", "defn": "If you <vocab>entreat</vocab> someone to do something, you ask them very politely and seriously to do it."}, "user_example_ids": [], "review_times": 1, "content_id": 7238, "us_audio": "http://media.shanbay.com/audio/us/entreat.mp3"},
+      {
+        "en_definitions": {"adv.": ["If you repeat something verbatim, you use exactly the same words as were used originally."]}, "pronunciations": {"uk": "v\u025c\u02d0'be\u026at\u026am", "us": "v\u025c\u02d0'be\u026at\u026am"}, "learning_example_ids": [], "audio_addresses": {"uk": ["http://words-audio.oss.aliyuncs.com/uk%2Fv%2Fve%2Fverbatim.mp3", "http://words-audio.cdn.shanbay.com/uk/v/ve/verbatim.mp3"], "us": ["http://words-audio.oss.aliyuncs.com/us%2Fv%2Fve%2Fverbatim.mp3", "http://words-audio.cdn.shanbay.com/us/v/ve/verbatim.mp3"]}, "sys_example_ids": [1806175], "user_note_ids": [], "uk_audio": "http://media.shanbay.com/audio/uk/verbatim.mp3", "review_status": 0, "is_new": false, "audio_name": "verbatim", "cn_definition": {"pos": "adv.", "defn": "\u4e00\u5b57\u4e0d\u5dee\u5730"}, "shared_note_ids": [18314, 30274], "sense_id": 0, "id": 21693918043, "retention": 1, "definition": "adv. \u4e00\u5b57\u4e0d\u5dee\u5730", "audio": "http://media.shanbay.com/audio/us/verbatim.mp3", "test_choice_ids": [18652, 13837, 18979, 11624], "learning_note_ids": [], "level": 0, "has_audio": true, "userid": 6859738, "content": "verbatim", "pron": "v\u025c\u02d0'be\u026at\u026am", "en_definition": {"pos": "adv.", "defn": "If you repeat something <vocab>verbatim</vocab>, you use exactly the same words as were used originally."}, "user_example_ids": [], "review_times": 1, "content_id": 18979, "us_audio": "http://media.shanbay.com/audio/us/verbatim.mp3"
+      }
+    ],
+    "result": {"fetch_status": 0}
+  }
+}
