@@ -4,9 +4,27 @@
   "data": {
     "reviews": [
       {
-        "en_definitions": {"A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair": [""]},
+        "content_id": 13821,
+        "content": "hovel",
+        "en_definitions": {
+          "A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair": [""]
+        },
+        "en_definition": {
+          "pos": "",
+          "defn": "A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair."
+        },
+        "definition": " n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b",
+        "cn_definition": {
+          "pos": "",
+          "defn": "n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b"
+        },
+        "pron": "'h\u028cvl",
         "pronunciations": {"uk": "'h\u0252vl", "us": "'h\u028cvl"},
-        "learning_example_ids": [],
+        "has_audio": true,
+        "audio_name": "hovel",
+        "audio": "http://media.shanbay.com/audio/us/hovel.mp3",
+        "us_audio": "http://media.shanbay.com/audio/us/hovel.mp3",
+        "uk_audio": "http://media.shanbay.com/audio/uk/hovel.mp3",
         "audio_addresses": {
           "uk": [
             "http://words-audio.oss.aliyuncs.com/uk%2Fh%2Fho%2Fhovel.mp3",
@@ -17,37 +35,24 @@
             "http://words-audio.cdn.shanbay.com/us/h/ho/hovel.mp3"
           ]
         },
+
         "sys_example_ids": [],
+        "learning_example_ids": [],
+        "user_example_ids": [],
+        "shared_note_ids": [117521, 222618],
+        "learning_note_ids": [],
         "user_note_ids": [],
-        "uk_audio": "http://media.shanbay.com/audio/uk/hovel.mp3",
+
+        "id": 21693918082,
+        "userid": 6859738,
         "review_status": 0,
         "is_new": false,
-        "audio_name": "hovel",
-        "cn_definition": {
-          "pos": "",
-          "defn": "n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b"
-        },
-        "shared_note_ids": [117521, 222618],
+
         "sense_id": 0,
-        "id": 21693918082,
         "retention": 1,
-        "definition": " n. \u5c0f\u5c4b, \u6742\u7269\u95f4, \u5bb6\u755c\u5c0f\u5c4b",
-        "audio": "http://media.shanbay.com/audio/us/hovel.mp3",
         "test_choice_ids": [2879, 86472, 13821, 26244],
-        "learning_note_ids": [],
         "level": 0,
-        "has_audio": true,
-        "userid": 6859738,
-        "content": "hovel",
-        "pron": "'h\u028cvl",
-        "en_definition": {
-          "pos": "",
-          "defn": "A <vocab>hovel</vocab> is a small hut, especially one which is dirty or needs a lot of repair."
-        },
-        "user_example_ids": [],
-        "review_times": 1,
-        "content_id": 13821,
-        "us_audio": "http://media.shanbay.com/audio/us/hovel.mp3"
+        "review_times": 1
       },
       {
         "en_definitions": {"n.": ["A convention is a way of behaving that is considered to be correct or polite by most people in a society."]},
