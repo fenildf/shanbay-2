@@ -1,6 +1,10 @@
+from django.core.urlresolvers import resolve
 from django.test import TestCase
+from .views import IndexView
 
 
-class SmokeTest(TestCase):
-    def test_bad_math(self):
-        self.assertEqual(1 + 1, 3)
+class HomePageTest(TestCase):
+
+    def test_root_url_resolve_to_home_page_view(self):
+        found = resolve('/')
+        self.assertEqual(found.func, IndexView.as_view())
