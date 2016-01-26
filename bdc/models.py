@@ -15,6 +15,9 @@ class Word(models.Model):
     def __str__(self):
         return self.name
 
+    def name_capitalized(self):
+        return self.name.capitalize()
+
 
 @python_2_unicode_compatible
 class Learning(models.Model):

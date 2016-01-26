@@ -18,12 +18,12 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.views.generic import RedirectView
 
-from bdc.views import Index
+from bdc.views import IndexView
 import bdc.urls
 import accounts.urls
 
 urlpatterns = [
-    url(r'^$', Index.as_view(), name='index'),
+    url(r'^$', IndexView.as_view(), name='index'),
     url(r'^accounts/', include(accounts.urls, namespace='accounts')),
     url(r'^admin/', admin.site.urls),
     url(r'^bdc/', include(bdc.urls, namespace='bdc')),
